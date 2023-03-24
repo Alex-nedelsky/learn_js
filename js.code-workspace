@@ -1,0 +1,12 @@
+{
+  "folders": [
+	{
+		"path": "../.."
+	},
+	{
+		"name": "ads",
+		"path": "../../ads/ads"
+	}
+],
+  "settings": {}
+}
