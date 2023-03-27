@@ -30,10 +30,5 @@
           <li>flea treatment</li>
           <li>thunder</li>
           <li>other cats</li>
-        </ol>
-          <ol>
-          <li>flea treatment</li>
-          <li>thunder</li>
-          <li>other cats</li>
-        </ol>
+
 
